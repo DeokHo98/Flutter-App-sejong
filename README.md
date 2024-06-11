@@ -11,4 +11,6 @@
 
 ## 로그인, 회원가입, 로그아웃 기능 시연 영상
 https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/c88e71f3-1b42-4f3f-8c80-12a4edf59fe8
+https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/85ca13e1-445d-45b7-971c-cfcbf7875550
+https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/feb792d4-9af0-4f9a-ab4b-fad891816283
 
