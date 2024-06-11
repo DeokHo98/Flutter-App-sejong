@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840344127632",
+    "project_id": "todo-flut",
+    "storage_bucket": "todo-flut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840344127632:android:88f262d9e92c311c617015",
+        "android_client_info": {
+          "package_name": "com.example.todo_project_jeongdeokho"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXrsnk27ppxrEu1yqn9NmTShhAw9pWa14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
