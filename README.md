@@ -10,7 +10,10 @@
 - 전역적으로 모든 화면에서 사용할수 있는 AlertDialog를 BuildContext Extension으로 구현하여 어디서든 팝업안내창을 띄울수 있도록 구현했습니다.      
 
 ## 로그인, 회원가입, 로그아웃 기능 시연 영상
-https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/c88e71f3-1b42-4f3f-8c80-12a4edf59fe8
-https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/85ca13e1-445d-45b7-971c-cfcbf7875550
-https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/feb792d4-9af0-4f9a-ab4b-fad891816283
+https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/c88e71f3-1b42-4f3f-8c80-12a4edf59fe8    
+     
+https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/85ca13e1-445d-45b7-971c-cfcbf7875550     
+      
+https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/feb792d4-9af0-4f9a-ab4b-fad891816283     
+      
 
