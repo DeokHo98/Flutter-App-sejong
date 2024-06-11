@@ -1,4 +1,4 @@
-![image](https://github.com/DeokHo98/Flutter-App-sejong/assets/93653997/745e8361-395d-45da-aa4e-377a02d0b252)# Flutter To-do App
+# Flutter To-do App
 이름: 정덕호    
 학번: 22931521     
 
